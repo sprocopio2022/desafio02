@@ -1,6 +1,12 @@
+
+<h1>
+Desafio 02
+
+</h1>
+
 --> Com suas palavras defina o que é programação orientada a objeto (POO), e cite seus pilares
 
-A programação orientada a objetos é um modelo de programação onde diversas classes possuem
+A programação orientate a objetos é um modelo de programação onde diversas classes possuem
 características que definem um objeto na vida real. Cada classe determina o comportamento do
 objeto definido por métodos e seus estados possíveis definidos por atributos. São exemplos de
 linguagens de programação orientadas a objetos: C++, Java, C#, Object Pascal, entre outras.
