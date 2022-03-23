@@ -21,7 +21,7 @@ seus objetos e quais informações podem ser armazenadas.
 		4 - Polimorfismo.
 
 
-### 1-	Exemplifique e explique um cenario de Abstraçao
+### 1- Exemplifique e explique um cenario de Abstraçao
 - Dentro da POO temos diversos
 conceitos de abtração, como por exemplo as interfaces
 e classes que escondam algo.
@@ -63,7 +63,7 @@ CalculateTotal();
 
 
 
-### 2-  exemplifique e explique um cenario de encapsulamento
+### 2- Exemplifique e explique um cenario de encapsulamento
 PEncapsular os dados de uma aplicação significa evitar
 que estes sofram acessos indevidos. Para isso, é criada
 uma estrutura que contém métodos que podem ser utilizados
@@ -86,7 +86,7 @@ os métodos get saldo e set saldo. Antes disso, no entanto, é preciso alterar
 o nível de acesso das variáveis de pública para privada.
 
 
-### 3-  exemplifique e explique um cenario de herança
+### 3- Exemplifique e explique um cenario de herança
 O reuso de código é uma das grandes vantagens da
 programação orientada a objetos. Muito disso se dá
 por uma questão que é conhecida como herança.
@@ -104,7 +104,7 @@ Por exemplo, na família, a criança herda diretamente do pai e indiretamente do
 bisavô.
 O Objeto N herda do objeto 02 que herda do objeto 01
 
-### 4-  exemplifique e explique um cenario de polimorfismo
+### 4- Exemplifique e explique um cenario de polimorfismo
 Outro ponto essencial na programação orientada a objetos é o chamado polimorfismo.
 Na natureza, vemos animais que são capazes de alterar sua forma conforme a
 necessidade, e é dessa ideia que vem o polimorfismo na orientação a objetos.
@@ -120,7 +120,7 @@ o método “Ligar()”.
 Ou Seja, Televisãoào e Geladeira pertencem a mesma classe "Eletrodomestico"
 
 
-### 5-  cite 5 vantagens de POO
+### 5- Cite 5 vantagens de POO
 1- A codificação fica mais próxima do cenário real do problema a ser resolvido.
 2- A manutenção futura fica mais simples e rápida.
 3- Maior reutilização de código.
