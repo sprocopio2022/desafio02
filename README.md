@@ -1,6 +1,6 @@
 
 <h1 align="center">
--- Desafio 02 --
+Desafio 02
 </h1>
 
 ### Com suas palavras defina o que é programação orientada a objeto (POO), e cite seus pilares
