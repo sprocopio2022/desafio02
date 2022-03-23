@@ -1,10 +1,9 @@
 
 <h1 align="center">
 Desafio 02
-
 </h1>
 
---> Com suas palavras defina o que é programação orientada a objeto (POO), e cite seus pilares
+### Com suas palavras defina o que é programação orientada a objeto (POO), e cite seus pilares
 
 A programação orientate a objetos é um modelo de programação onde diversas classes possuem
 características que definem um objeto na vida real. Cada classe determina o comportamento do
