@@ -1,5 +1,5 @@
 
-<h1>
+<h1 align="center">
 Desafio 02
 
 </h1>
